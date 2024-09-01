@@ -104,3 +104,5 @@ Essa foi a performance de cada ativo no período selecionado:
 
 {texto_performance_carteira}
 """)
+
+print()
