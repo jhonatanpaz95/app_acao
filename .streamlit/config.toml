@@ -1,0 +1,3 @@
+# Arquivo config.toml
+[theme]
+base = "dark"
